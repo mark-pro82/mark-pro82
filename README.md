@@ -1,4 +1,16 @@
-# Hey, I'm Mark 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Python;Flutter+%7C+Building+Cool+Things" alt="Typing SVG" />
+</p>
+
+<h3 align="center">
+  Building modern apps, useful tools, and interactive experiences 🚀
+</h3>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">GitHub Profile</a>
+</p>
+
 
 **Full-Stack Developer | Mobile Developer | Game Creator**
 
