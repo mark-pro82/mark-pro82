@@ -2,14 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs automatically at midnight UTC every day
-  workflow_dispatch:        # Allows manual triggering from the Actions page
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write       # Required permission to push files to the output branch
+      contents: write
     steps:
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
